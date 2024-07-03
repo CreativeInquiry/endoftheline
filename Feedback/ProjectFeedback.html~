@@ -1,0 +1,59 @@
+<HTML>
+<HEAD>
+  <META NAME="GENERATOR" CONTENT="Adobe PageMill 2.0 Mac">
+  <TITLE>Untitled Document</TITLE>
+</HEAD>
+<BODY BGCOLOR="#f0e4b6" TEXT="#ba4333">
+
+<FORM action=FeedbackSend.cgi method=post enctype=x-www-form-encoded>
+<P><CENTER><BR>
+<B><FONT COLOR="#990A06" SIZE=+1>End of the Line: Building Bridges with
+Pittsburgh's Busways<BR>
+Feedback and Participation Form</FONT></B></CENTER></P>
+
+<P><CENTER><TABLE WIDTH="400" BORDER="0" CELLSPACING="0" CELLPADDING="2"
+HEIGHT="621">
+<TR>
+<TD WIDTH="196" HEIGHT="28" BGCOLOR="#fff1a6"><B>Your Name:</B></TD>
+<TD WIDTH="203" BGCOLOR="#fff1a6"><INPUT NAME="shname" TYPE="text" SIZE="29"></TD></TR>
+<TR>
+<TD HEIGHT="28" BGCOLOR="#fff1a6"><B>Email Address:</B></TD>
+<TD BGCOLOR="#fff1a6"><INPUT NAME="shemail" TYPE="text" SIZE="30"></TD></TR>
+<TR>
+<TD HEIGHT="28" BGCOLOR="#fff1a6"><B>Postal Address Line #1:</B></TD>
+<TD BGCOLOR="#fff1a6"><INPUT NAME="address1" TYPE="text" SIZE="30"></TD></TR>
+<TR>
+<TD HEIGHT="28" BGCOLOR="#fff1a6"><B>Postal Address Line #2:</B></TD>
+<TD BGCOLOR="#fff1a6"><INPUT NAME="address2" TYPE="text" SIZE="30"></TD></TR>
+<TR>
+<TD HEIGHT="114" BGCOLOR="#fcfff9"><B><FONT COLOR="#990A06">End of the Line Sightings! </FONT><FONT COLOR="#BA4333"><BR>
+Did you see any of the collages on the buses, and if so, which route?</FONT></B></TD>
+<TD BGCOLOR="#fcfff9"><TEXTAREA NAME="ques1" ROWS="7" COLS="27"
+></TEXTAREA></TD></TR>
+<TR>
+<TD HEIGHT="114" BGCOLOR="#fcfff9"><B>Would you like to participate in the project by sending in <FONT COLOR="#990A06">photographs
+or video</FONT> of one of the collages on the back of a bus? We will post
+your contributions on this site.</B></TD>
+<TD BGCOLOR="#fcfff9"><TEXTAREA NAME="ques2" ROWS="7" COLS="27"
+></TEXTAREA></TD></TR>
+<TR>
+<TD HEIGHT="114" BGCOLOR="#fcfff9"><B><FONT COLOR="#990A06">Do you have any stories</FONT> from your neighborhood
+about community gardens, local heroes, urban removal, urban rebuilding,
+or the role of libraries in your neighborhood that you would like to contribute
+to this web site?</B></TD>
+<TD BGCOLOR="#fcfff9"><TEXTAREA NAME="ques3" ROWS="7" COLS="27"
+></TEXTAREA></TD></TR>
+<TR>
+<TD HEIGHT="114" BGCOLOR="#fcfff9"><B><FONT COLOR="#990A06">Your thoughts/comments</FONT> on the impact of
+public art - this one or others - on your life, neighborhood or city?</B></TD>
+<TD BGCOLOR="#fcfff9"><TEXTAREA NAME="ques3." ROWS="7" COLS="27"
+></TEXTAREA></TD></TR>
+<TR>
+<TD HEIGHT="32" ALIGN="RIGHT" BGCOLOR="#fff1a6"></TD>
+<TD ALIGN="RIGHT" BGCOLOR="#fff1a6"><INPUT NAME="name" TYPE="reset" VALUE="Reset"><INPUT NAME="name" TYPE="submit"
+VALUE="Submit"></TD></TR>
+</TABLE>
+</CENTER></FORM>
+</BODY>
+</HTML>
+
